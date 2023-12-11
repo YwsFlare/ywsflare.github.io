@@ -1,3 +1,3 @@
 # 💻 Internships
 
-On the road.
+- On the road.

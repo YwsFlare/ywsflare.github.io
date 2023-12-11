@@ -1,3 +1,3 @@
 # 🎖 Honors and Awards
 
-On the road.
+- On the road.
