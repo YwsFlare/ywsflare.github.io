@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weishuo Yuan(苑伟硕)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A freshman of AI "
 repository               : "Ywsflare.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weishuo Yuan"
   avatar           : "images/1.jpg"
-  bio              : "Nku"
+  bio              : "NKU"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
