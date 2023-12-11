@@ -1,3 +1,3 @@
-# 📝 Publication
+# 📝 Publications
 
 On the road.
